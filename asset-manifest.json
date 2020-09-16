@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/cholera/static/css/main.5f361e03.chunk.css",
-    "main.js": "/cholera/static/js/main.1e95cd7f.chunk.js",
-    "main.js.map": "/cholera/static/js/main.1e95cd7f.chunk.js.map",
+    "main.js": "/cholera/static/js/main.41dc7ab1.chunk.js",
+    "main.js.map": "/cholera/static/js/main.41dc7ab1.chunk.js.map",
     "runtime-main.js": "/cholera/static/js/runtime-main.f03dc3ad.js",
     "runtime-main.js.map": "/cholera/static/js/runtime-main.f03dc3ad.js.map",
     "static/js/2.afe33b80.chunk.js": "/cholera/static/js/2.afe33b80.chunk.js",
     "static/js/2.afe33b80.chunk.js.map": "/cholera/static/js/2.afe33b80.chunk.js.map",
     "index.html": "/cholera/index.html",
-    "precache-manifest.efeb47cf71c0b05f76524ecf9c57d4d3.js": "/cholera/precache-manifest.efeb47cf71c0b05f76524ecf9c57d4d3.js",
+    "precache-manifest.d28f2c67e8a5f44aafb29a45a174b64c.js": "/cholera/precache-manifest.d28f2c67e8a5f44aafb29a45a174b64c.js",
     "service-worker.js": "/cholera/service-worker.js",
     "static/css/main.5f361e03.chunk.css.map": "/cholera/static/css/main.5f361e03.chunk.css.map",
     "static/js/2.afe33b80.chunk.js.LICENSE.txt": "/cholera/static/js/2.afe33b80.chunk.js.LICENSE.txt",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.f03dc3ad.js",
     "static/js/2.afe33b80.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.1e95cd7f.chunk.js"
+    "static/js/main.41dc7ab1.chunk.js"
   ]
 }
