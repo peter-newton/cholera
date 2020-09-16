@@ -8,16 +8,14 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload. 
+          Edit <code>src/App.js</code> and save to reload.
         </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
+
+        <iframe width="900" height="800" frameBorder="0" scrolling="no"
+                src="//plotly.com/dashboard/pnewton:4/embed"></iframe>
+
+        <iframe width="900" height="800" frameBorder="0" scrolling="no" src="//plotly.com/~pnewton/2.embed"></iframe>
+        
       </header>
     </div>
   );
