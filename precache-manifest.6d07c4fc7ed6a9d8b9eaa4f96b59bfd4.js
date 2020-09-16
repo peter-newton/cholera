@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9fd8965535cd2be6f03f7520c3e7f7a8",
+    "revision": "04a52ee1ef54674ccea7fb52344b17ce",
     "url": "/cholera/index.html"
   },
   {
-    "revision": "f06a4da1c6791c04b561",
+    "revision": "33053bfa4f33c28b8a28",
     "url": "/cholera/static/css/main.5f361e03.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/cholera/static/js/2.afe33b80.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "f06a4da1c6791c04b561",
-    "url": "/cholera/static/js/main.41dc7ab1.chunk.js"
+    "revision": "33053bfa4f33c28b8a28",
+    "url": "/cholera/static/js/main.65cd0b65.chunk.js"
   },
   {
     "revision": "c6b99fdbfd4592c26606",
