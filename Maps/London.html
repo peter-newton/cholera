@@ -288,8 +288,14 @@
     accessToken: 'pk.eyJ1IjoicG5ld3RvbiIsImEiOiJja2ZhcHZ4MWkweWJxMzZvN3gycmYzcDJtIn0.I2k7oGN4Zighi7Gi9GWYLQ'
   }).addTo(mymap);
 
-  var marker = L.marker([51.5, -0.09], {opacity: 0.5}).addTo(mymap);
-  marker.bindPopup("<b>Hello world!</b><br>I am a popup.");
+  for (var i = 0; i < planes.length; i++) {
+    marker = new L.marker([planes[i][1],planes[i][2]])
+        .bindPopup (planes[i][0])
+        .addTo(mymap);
+  }
+
+  /* var marker = L.marker([51.5, -0.09], {opacity: 0.5}).addTo(mymap);
+  marker.bindPopup("<b>Hello world!</b><br>I am a popup."); */
 /* To have marker open automatically, add .openPopup() at the end */
 
   var circle = L.circle([51.508, -0.11], {
