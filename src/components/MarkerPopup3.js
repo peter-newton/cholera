@@ -1,7 +1,7 @@
 import React from 'react';
 import {Popup} from 'react-leaflet';
 
-const MarkerPopup2 = (props) => {
+const MarkerPopup3 = (props) => {
   const { name } = props.data;
   console.log(name);
 
@@ -10,4 +10,4 @@ const MarkerPopup2 = (props) => {
   </Popup>);
 };
 
-export default MarkerPopup2;
+export default MarkerPopup3;
