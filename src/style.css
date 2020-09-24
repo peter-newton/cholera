@@ -1,16 +1,58 @@
-.ui.borderless.topmenu.menu{
-  background-color: #f7f7f7;
-  box-shadow: none;
-  border: none;
+
+
+html,body {
+  height: 100%;
 }
-.ui.borderless.middle.menu{
-  box-shadow: none;
-  border: none;
-  background-image: url("http://murphyshawaii.com/media/2014/04/murphys-front.jpg");
+
+.wrapper {
+  height: 300px;
+  font-family: 'Quicksand', sans-serif;
+  line-height: 1.5;
+  word-spacing: 4px;
+  letter-spacing: 1px;
 }
-.footer-background {
-  background-color: #004030;
+
+.fixed-bg {
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+  height: 100%;
+  width: 100%;
   color: white;
-  padding-top: 20px;
-  padding-bottom: 20px;
+  text-align: center;
+  display: table;
+}
+
+.fixed-bg h1 {
+  display: table-cell;
+  vertical-align: middle;
+}
+
+.scroll-bg {
+  background-color: #7bb37d;
+  padding: 10px 70px;
+  color: #676767;
+}
+
+/* first section */
+
+.bg-1 {
+  background-image: url('https://upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/1200px-Flag_of_the_United_Kingdom.svg.png');
+}
+
+/* third section */
+
+.bg-2 {
+  background-image: url('https://cieh.shorthandstories.com/whatiseh/whoareehps/johnsnow/assets/BYv0lBtmnn/final-cholera-newspaper-1890x1417.png');
+}
+
+/* fifth section */
+
+.bg-3 {
+  background-image: url('https://images-na.ssl-images-amazon.com/images/I/810daJiBSxL._AC_SL1000_.jpg');
+}
+
+.bg-4 {
+  background-image: url('https://oldoperatingtheatre.com/wp-content/uploads/2020/06/495169a-i1.0.jpg');
 }
