@@ -8,8 +8,9 @@ import Markers from './VenueMarkers';
 import Markers2 from './VenueMarkers2';
 import Markers3 from './VenueMarkers3';
 import Markers4 from './VenueMarkers4';
-import { Segment } from 'semantic-ui-react'
+import { Segment, Image } from 'semantic-ui-react'
 import '../style.css';
+import legend from '../assets/legend.png';
 
 class MapView extends Component {
   constructor(props) {
@@ -25,12 +26,13 @@ class MapView extends Component {
 
     return (
         <container>
-
           <div className="wrapper">
+
             <div className="fixed-bg bg-1">
               <h1></h1>
             </div>
             <div className="scroll-bg">
+
       <Map center={currentLocation} zoom={zoom}>
         <TileLayer
           url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"
@@ -41,7 +43,9 @@ class MapView extends Component {
         <Markers3 venues={data3.deaths}/>
         <Markers4 venues={data3.super}/>
       </Map>
+              <Image src={legend} size='mini' floated='right' />
           <Segment>London Map of Cholera Outbreak.</Segment>
+
             </div>
             <div className="scroll-bg">
           <iframe title="Men vs. Women" width="600" height="500" frameBorder="0" scrolling="no"
@@ -79,9 +83,10 @@ class MapView extends Component {
                   src="//plotly.com/~pnewton/8.embed"></iframe>
 
           <iframe title="Age & Sex Table" width="600" height="500" frameBorder="0" scrolling="no"
-                  src="//plotly.com/~pnewton/7.embed"></iframe>
+                  src="//plotly.com/~pnewton/7.embed">Testing
+          </iframe>
 
-          <iframe title="Attacks and Deaths Line" width="1500" height="500" frameBorder="0" scrolling="no"
+          <iframe title="Attacks and Deaths Line" width="1425" height="500" frameBorder="0" scrolling="no"
                   src="//plotly.com/~pnewton/6.embed"></iframe>
             </div>
 
