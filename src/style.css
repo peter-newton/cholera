@@ -24,16 +24,36 @@ html,body {
 }
 
 .fixed-bg h1 {
-  display: table-cell;
-  vertical-align: middle;
+  height: 300px;
+  display: table-row;
+  vertical-align: before-edge;
 }
 
 .scroll-bg {
   background-color: #7bb37d;
-  padding: 10px 70px;
+  padding: 00px 30px;
   color: #676767;
 }
-
+.table-indent {
+  display: grid;
+  padding: 00px 410px;
+}
+.graph-indent {
+  display: grid;
+  padding: 00px 70px;
+}
+.pie-indent {
+  display: inline;
+  padding: 00px 80px;
+}
+.pie-indent2 {
+  display: inline;
+  padding: 00px 300px;
+}
+.legend-indent {
+  display: grid;
+  padding: 00px 350px;
+}
 /* first section */
 
 .bg-1 {
