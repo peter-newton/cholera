@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/cholera/static/css/main.5b9de4cb.chunk.css",
-    "main.js": "/cholera/static/js/main.46fd619a.chunk.js",
-    "main.js.map": "/cholera/static/js/main.46fd619a.chunk.js.map",
+    "main.js": "/cholera/static/js/main.bd17c242.chunk.js",
+    "main.js.map": "/cholera/static/js/main.bd17c242.chunk.js.map",
     "runtime-main.js": "/cholera/static/js/runtime-main.f03dc3ad.js",
     "runtime-main.js.map": "/cholera/static/js/runtime-main.f03dc3ad.js.map",
     "static/css/2.a4567992.chunk.css": "/cholera/static/css/2.a4567992.chunk.css",
     "static/js/2.f77a1626.chunk.js": "/cholera/static/js/2.f77a1626.chunk.js",
     "static/js/2.f77a1626.chunk.js.map": "/cholera/static/js/2.f77a1626.chunk.js.map",
     "index.html": "/cholera/index.html",
-    "precache-manifest.af2e99647ef1344d581d175e0fdf148c.js": "/cholera/precache-manifest.af2e99647ef1344d581d175e0fdf148c.js",
+    "precache-manifest.029c3ac67219895c6eb7c5e4838c78da.js": "/cholera/precache-manifest.029c3ac67219895c6eb7c5e4838c78da.js",
     "service-worker.js": "/cholera/service-worker.js",
     "static/css/2.a4567992.chunk.css.map": "/cholera/static/css/2.a4567992.chunk.css.map",
     "static/css/main.5b9de4cb.chunk.css.map": "/cholera/static/css/main.5b9de4cb.chunk.css.map",
@@ -22,6 +22,6 @@
     "static/css/2.a4567992.chunk.css",
     "static/js/2.f77a1626.chunk.js",
     "static/css/main.5b9de4cb.chunk.css",
-    "static/js/main.46fd619a.chunk.js"
+    "static/js/main.bd17c242.chunk.js"
   ]
 }

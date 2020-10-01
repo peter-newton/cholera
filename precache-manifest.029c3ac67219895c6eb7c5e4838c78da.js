@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c5da1c1fd39f492f07f06fcb402a71f4",
+    "revision": "26ba7982129ccad0a50415de10f0bb19",
     "url": "/cholera/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/cholera/static/css/2.a4567992.chunk.css"
   },
   {
-    "revision": "377a87a4b657fc17b44f",
+    "revision": "76198b54ff8a376d6486",
     "url": "/cholera/static/css/main.5b9de4cb.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/cholera/static/js/2.f77a1626.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "377a87a4b657fc17b44f",
-    "url": "/cholera/static/js/main.46fd619a.chunk.js"
+    "revision": "76198b54ff8a376d6486",
+    "url": "/cholera/static/js/main.bd17c242.chunk.js"
   },
   {
     "revision": "c6b99fdbfd4592c26606",
