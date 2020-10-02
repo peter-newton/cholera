@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/cholera/precache-manifest.0302e4bf61ed0a220161b6dd2478d4d5.js"
+  "/cholera/precache-manifest.0aaa6199bc9b8f6fce4274107f898bad.js"
 );
 
 self.addEventListener('message', (event) => {
