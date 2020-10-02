@@ -1,31 +1,35 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "26ba7982129ccad0a50415de10f0bb19",
+    "revision": "94475b62e76d1bdac2afe8142afac203",
     "url": "/cholera/index.html"
   },
   {
-    "revision": "86975653ce490180bcd5",
+    "revision": "0dac034bd11709a2731f",
     "url": "/cholera/static/css/2.a4567992.chunk.css"
   },
   {
-    "revision": "76198b54ff8a376d6486",
-    "url": "/cholera/static/css/main.5b9de4cb.chunk.css"
+    "revision": "956abbeb9cfa9aed2f21",
+    "url": "/cholera/static/css/main.ff32e21b.chunk.css"
   },
   {
-    "revision": "86975653ce490180bcd5",
-    "url": "/cholera/static/js/2.f77a1626.chunk.js"
+    "revision": "0dac034bd11709a2731f",
+    "url": "/cholera/static/js/2.c6e06bea.chunk.js"
   },
   {
     "revision": "905b94098a4344fe19b5b15f410548a9",
-    "url": "/cholera/static/js/2.f77a1626.chunk.js.LICENSE.txt"
+    "url": "/cholera/static/js/2.c6e06bea.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "76198b54ff8a376d6486",
-    "url": "/cholera/static/js/main.bd17c242.chunk.js"
+    "revision": "956abbeb9cfa9aed2f21",
+    "url": "/cholera/static/js/main.1b587898.chunk.js"
   },
   {
     "revision": "c6b99fdbfd4592c26606",
     "url": "/cholera/static/js/runtime-main.f03dc3ad.js"
+  },
+  {
+    "revision": "2cd1a72a4785f82114cb10189ce46e3f",
+    "url": "/cholera/static/media/1.2cd1a72a.JPG"
   },
   {
     "revision": "28ec7dad73996fdd3187a4604d1df405",

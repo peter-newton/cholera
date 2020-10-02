@@ -1,27 +1,28 @@
 {
   "files": {
-    "main.css": "/cholera/static/css/main.5b9de4cb.chunk.css",
-    "main.js": "/cholera/static/js/main.bd17c242.chunk.js",
-    "main.js.map": "/cholera/static/js/main.bd17c242.chunk.js.map",
+    "main.css": "/cholera/static/css/main.ff32e21b.chunk.css",
+    "main.js": "/cholera/static/js/main.1b587898.chunk.js",
+    "main.js.map": "/cholera/static/js/main.1b587898.chunk.js.map",
     "runtime-main.js": "/cholera/static/js/runtime-main.f03dc3ad.js",
     "runtime-main.js.map": "/cholera/static/js/runtime-main.f03dc3ad.js.map",
     "static/css/2.a4567992.chunk.css": "/cholera/static/css/2.a4567992.chunk.css",
-    "static/js/2.f77a1626.chunk.js": "/cholera/static/js/2.f77a1626.chunk.js",
-    "static/js/2.f77a1626.chunk.js.map": "/cholera/static/js/2.f77a1626.chunk.js.map",
+    "static/js/2.c6e06bea.chunk.js": "/cholera/static/js/2.c6e06bea.chunk.js",
+    "static/js/2.c6e06bea.chunk.js.map": "/cholera/static/js/2.c6e06bea.chunk.js.map",
     "index.html": "/cholera/index.html",
-    "precache-manifest.029c3ac67219895c6eb7c5e4838c78da.js": "/cholera/precache-manifest.029c3ac67219895c6eb7c5e4838c78da.js",
+    "precache-manifest.0302e4bf61ed0a220161b6dd2478d4d5.js": "/cholera/precache-manifest.0302e4bf61ed0a220161b6dd2478d4d5.js",
     "service-worker.js": "/cholera/service-worker.js",
     "static/css/2.a4567992.chunk.css.map": "/cholera/static/css/2.a4567992.chunk.css.map",
-    "static/css/main.5b9de4cb.chunk.css.map": "/cholera/static/css/main.5b9de4cb.chunk.css.map",
-    "static/js/2.f77a1626.chunk.js.LICENSE.txt": "/cholera/static/js/2.f77a1626.chunk.js.LICENSE.txt",
+    "static/css/main.ff32e21b.chunk.css.map": "/cholera/static/css/main.ff32e21b.chunk.css.map",
+    "static/js/2.c6e06bea.chunk.js.LICENSE.txt": "/cholera/static/js/2.c6e06bea.chunk.js.LICENSE.txt",
+    "static/media/1.JPG": "/cholera/static/media/1.2cd1a72a.JPG",
     "static/media/legend 3.jpg": "/cholera/static/media/legend 3.28ec7dad.jpg",
     "static/media/venue_location_icon.svg": "/cholera/static/media/venue_location_icon.bd6f36a3.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.f03dc3ad.js",
     "static/css/2.a4567992.chunk.css",
-    "static/js/2.f77a1626.chunk.js",
-    "static/css/main.5b9de4cb.chunk.css",
-    "static/js/main.bd17c242.chunk.js"
+    "static/js/2.c6e06bea.chunk.js",
+    "static/css/main.ff32e21b.chunk.css",
+    "static/js/main.1b587898.chunk.js"
   ]
 }
