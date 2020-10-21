@@ -11,6 +11,7 @@ import Markers4 from './VenueMarkers4';
 import { Segment, Image, Header, Grid} from 'semantic-ui-react'
 import '../style.css';
 import legend2 from '../assets/legend 3.jpg';
+import chart1 from '../assets/1.JPG'
 
 class MapView extends Component {
   constructor(props) {
@@ -46,11 +47,14 @@ class MapView extends Component {
                       src="//plotly.com/~pnewton/8.embed">Naples Age/Sex Bar</iframe>
                 </div>
               </Grid.Column>
-
+                <br/>
+                <br/>
+                <br/>
+                <br/>
 <Grid.Column>
   <div className="table-indent">
-              <iframe title="Age & Sex Table" width="600" height="400" frameBorder="0" scrolling="no"
-                      src="//plotly.com/~pnewton/7.embed">Naples Data Table
+              <iframe title="Age & Sex Table" width="800" height="700" frameBorder="0" scrolling="yes"
+                      src="//plotly.com/~pnewton/26.embed">Naples Data Table
               </iframe>
   </div>
 </Grid.Column>
@@ -105,11 +109,12 @@ class MapView extends Component {
               </div>
               <iframe title="Female Fatalities Pie" width="600" height="500" frameBorder="0" scrolling="no"
                       src="//plotly.com/~pnewton/12.embed"> </iframe>
-<br/>
               <br/>
-              <div className="table-indent">
-              <iframe title="Men/Female Table" width="600" height="350" frameBorder="0" scrolling="no"
-                      src="//plotly.com/~pnewton/9.embed"> </iframe>
+              <br/>
+              <br/>
+              <div className="table-indent2">
+              <iframe title="Men/Female Table" width="900" height="800" frameBorder="0" scrolling="no"
+                      src="//plotly.com/~pnewton/28.embed"> </iframe>
               </div>
               <div className="pie-indent2">
               <iframe title="Men vs. Women" width="800" height="500" frameBorder="0" scrolling="no"
@@ -137,13 +142,23 @@ class MapView extends Component {
 <br/>
               <br/>
               <br/>
+              <div className="table-indent2">
+              <iframe width="900" height="800" frameBorder="0" scrolling="no"
+                      src="//plotly.com/~pnewton/30.embed"></iframe>
+              </div>
+
+                <br/>
+                <br/>
+                <br/>
+                <br/>
+
                 <div className="legend-indent">
                 <Image src={legend2} size='large' floated='right'/>
                 </div>
               <div className="graph-indent">
-              <Map center={currentLocation} zoom={zoom}>
+              <Map center={currentLocation} zoom={zoom} >
                 <TileLayer
-                    url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"
+                    url="https://tile.thunderforest.com/landscape/{z}/{x}/{y}.png?apikey=b3aae777f50f43f8879dc3f1e2b369d8"
                     attribution="&copy; <a href=&quot;http://osm.org/copyright&quot;>OpenStreetMap</a> contributors"
                 />
                 <Markers venues={data.venues}/>
@@ -157,7 +172,7 @@ class MapView extends Component {
               <br/>
               <br/>
               <Header as='h5' block>
-                Project created by: Peter Newton
+                Project created by: Peter Newton (pnewton@hawaii.edu)
                 <br/>Information gathered from Robin Wilson (robin@rtwilson.com, www.rtwilson.com/academic) - Jan 2011.
                 <br/>Page composition: Plotly, React.js, Leaflet.
               </Header>

@@ -36,7 +36,11 @@ html,body {
 }
 .table-indent {
   display: grid;
-  padding: 00px 410px;
+  padding: 00px 310px;
+}
+.table-indent2 {
+  display: grid;
+  padding: 00px 260px;
 }
 .graph-indent {
   display: grid;
@@ -54,6 +58,7 @@ html,body {
   display: grid;
   padding: 00px 350px;
 }
+
 /* first section */
 
 .bg-1 {
